@@ -16,8 +16,7 @@
 #include "esp_err.h"
 #include "esp_check.h"
 
-#include "tmc2208.h"
-#include "include/tmc2208.h"
+#include "TMC2208.h"
 #include "stepper_motor_encoder.h"
 
 static const char *TAG = "TMC2208";
