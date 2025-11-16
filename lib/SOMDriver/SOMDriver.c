@@ -5,7 +5,7 @@
 #include <esp_log.h>
 
 #include "HX711.h"
-#include "tmc2208.h"
+#include "TMC2208.h"
 
 esp_err_t HX711_config(){
     return -1;
