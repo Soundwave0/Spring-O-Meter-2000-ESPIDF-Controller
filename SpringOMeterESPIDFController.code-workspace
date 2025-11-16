@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "SpringOMeterESPIDFController",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"freertos.h": "c",
+			"esp_log.h": "c",
+			"hx711.h": "c",
+			"rmt_encoder.h": "c",
+			"ui.h": "c",
+			"rmt_tx.h": "c",
+			"tmc2209.h": "c"
+		}
+	}
+}
